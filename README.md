@@ -1,16 +1,9 @@
 # clean_arch_study_1
 
-A new Flutter project.
+Clean architecture study project
 
-## Getting Started
+Code is fully taken from https://habr.com/ru/post/522640/
+but written by hand
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+With a plan to refactor code in the ResoCoder style in the future
+*done in repository https://github.com/PavelShkuropatsky/clean_arch_study_2
